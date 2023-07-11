@@ -13,11 +13,12 @@ Released under AGPL see LICENSE for more information
 
 Installing  
 =======================
- git clone https://github.com/3tternp/vlan-hopping- 
+ git clone https://github.com/3tternp/vlan-hopping
 
 Installing   requirements 
 =======================
- cd vlan-hopping- 
+ cd vlan-hopping
+ 
  sudo bash requirements.sh
  
 How To Use	
