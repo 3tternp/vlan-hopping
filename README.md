@@ -56,7 +56,7 @@ Tested on Kali 2023.2. All dependencies will be checked for when running.
 
 Screen Shot    
 =======================
-<img src="http://www.commonexploits.com/images/frogger2.png" alt="Screenshot" style="max-width:100%;">
+<img src="https://repository-images.githubusercontent.com/664999969/2704a1a1-5f67-40ed-8e5f-1b768be293c7">
 
 
 Change Log
